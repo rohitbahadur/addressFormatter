@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="151" started-at="2020-07-23T23:27:25Z" finished-at="2020-07-23T23:27:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="151" started-at="2020-07-23T23:27:25Z" finished-at="2020-07-23T23:27:25Z">
+      <class name="addressFormatterTest.ProcessingAddressesFromAnExternalSourceTest">
+        <test-method status="PASS" signature="it_should_work_for_ES_addresses_with_NO()[pri:0, instance:addressFormatterTest.ProcessingAddressesFromAnExternalSourceTest@7692d9cc]" name="it_should_work_for_ES_addresses_with_NO" duration-ms="19" started-at="2020-07-23T23:27:25Z" finished-at="2020-07-23T23:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it_should_work_for_ES_addresses_with_NO -->
+        <test-method status="PASS" signature="it_should_work_for_simple_DE_addresses()[pri:0, instance:addressFormatterTest.ProcessingAddressesFromAnExternalSourceTest@7692d9cc]" name="it_should_work_for_simple_DE_addresses" duration-ms="2" started-at="2020-07-23T23:27:25Z" finished-at="2020-07-23T23:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it_should_work_for_simple_DE_addresses -->
+        <test-method status="PASS" signature="it_should_work_for_simple_DE_addresses_with_alphanumberical_street_numbers()[pri:0, instance:addressFormatterTest.ProcessingAddressesFromAnExternalSourceTest@7692d9cc]" name="it_should_work_for_simple_DE_addresses_with_alphanumberical_street_numbers" duration-ms="9" started-at="2020-07-23T23:27:25Z" finished-at="2020-07-23T23:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it_should_work_for_simple_DE_addresses_with_alphanumberical_street_numbers -->
+        <test-method status="PASS" signature="it_should_work_for_simple_DE_addresses_with_alphanumberical_street_numbers2()[pri:0, instance:addressFormatterTest.ProcessingAddressesFromAnExternalSourceTest@7692d9cc]" name="it_should_work_for_simple_DE_addresses_with_alphanumberical_street_numbers2" duration-ms="9" started-at="2020-07-23T23:27:25Z" finished-at="2020-07-23T23:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it_should_work_for_simple_DE_addresses_with_alphanumberical_street_numbers2 -->
+        <test-method status="PASS" signature="it_should_work_for_simple_DE_addresses_with_longer_street_numbers()[pri:0, instance:addressFormatterTest.ProcessingAddressesFromAnExternalSourceTest@7692d9cc]" name="it_should_work_for_simple_DE_addresses_with_longer_street_numbers" duration-ms="10" started-at="2020-07-23T23:27:25Z" finished-at="2020-07-23T23:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it_should_work_for_simple_DE_addresses_with_longer_street_numbers -->
+        <test-method status="PASS" signature="it_should_work_for_simple_ES_addresses()[pri:0, instance:addressFormatterTest.ProcessingAddressesFromAnExternalSourceTest@7692d9cc]" name="it_should_work_for_simple_ES_addresses" duration-ms="4" started-at="2020-07-23T23:27:25Z" finished-at="2020-07-23T23:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it_should_work_for_simple_ES_addresses -->
+        <test-method status="PASS" signature="it_should_work_for_simple_FR_addresses()[pri:0, instance:addressFormatterTest.ProcessingAddressesFromAnExternalSourceTest@7692d9cc]" name="it_should_work_for_simple_FR_addresses" duration-ms="2" started-at="2020-07-23T23:27:25Z" finished-at="2020-07-23T23:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it_should_work_for_simple_FR_addresses -->
+        <test-method status="PASS" signature="it_should_work_for_simple_US_addresses()[pri:0, instance:addressFormatterTest.ProcessingAddressesFromAnExternalSourceTest@7692d9cc]" name="it_should_work_for_simple_US_addresses" duration-ms="3" started-at="2020-07-23T23:27:25Z" finished-at="2020-07-23T23:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it_should_work_for_simple_US_addresses -->
+        <test-method status="PASS" signature="it_should_work_for_simple_addresses_with_german_characters()[pri:0, instance:addressFormatterTest.ProcessingAddressesFromAnExternalSourceTest@7692d9cc]" name="it_should_work_for_simple_addresses_with_german_characters" duration-ms="5" started-at="2020-07-23T23:27:25Z" finished-at="2020-07-23T23:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it_should_work_for_simple_addresses_with_german_characters -->
+      </class> <!-- addressFormatterTest.ProcessingAddressesFromAnExternalSourceTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
